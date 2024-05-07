@@ -160,7 +160,7 @@ a:focus {
 }
 
 .top-bar .logo h1 {
-    margin: -4px 0 0 0;
+    margin: 0 0 0 0;
     color: #ff0015;
     font-size: 50px;
     line-height: 50px;
@@ -175,7 +175,7 @@ a:focus {
 
 .top-bar .logo img {
     max-width: 100%;
-    max-height: 60px;
+    max-height: 70px;
 }
 
 .top-bar .top-bar-item {
