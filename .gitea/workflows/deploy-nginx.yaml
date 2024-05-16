@@ -13,4 +13,4 @@ jobs:
         username: ${{ secrets.USERNAME }}
         password: ${{ secrets.PASSWORD }}
         port: 22
-        script: /home/harry/docker/webserver/main.sh
+        script: sudo /home/harry/docker/webserver/main.sh
