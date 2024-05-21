@@ -148,10 +148,11 @@ a:focus {
 /**********************************/
 .top-bar {
     position: relative;
-    height: 75px;
     display: flex;
     align-items: center;
     background: #ffffff;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 .top-bar .logo {
